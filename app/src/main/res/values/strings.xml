@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Modern Walking App</string>
+    <string name="home_your_goal">DEIN ZIEL</string>
+    <string name="profil_your_profil">Dein Profil</string>
+    <string name="profil_hello_user">Hallo,</string>
+    <string name="modern_walking">Modern Walking</string>
+    <string name="history">History</string>
+    <string name="statistic">Statistic</string>
+    <string name="profil_user_name"> $user</string>
+    <!--Statistic-Screen-->
+    <string name="calories_burned"> Kalorien verbrannt</string>
+    <string name="minutes_walked"> Minuten spaziert</string>
+    <string name="distance_walked"> Kilometer gelaufen</string>
+    <string name="steps_walked"> Schritte gegangen</string>
+    <string name="cal_unit"> kal</string>
+    <string name="min_unit"> min</string>
+    <string name="km_unit"> km</string>
+    <string name="steps_unit"> Schritte</string>
+</resources>
